@@ -9,7 +9,7 @@ It has two parts:
 | [`demo/`](demo) | A browser-based simulator of a small data center. Open it to see the concepts in action. |
 | [`real-lab/`](real-lab) | A real Docker setup (website + PostgreSQL) with automated backups, verified restores and health checks. |
 
-**Live demo:** https://YOUR-USERNAME.github.io/data-center-lab/demo/
+**Live demo:** https://YOUR-USERNAME.github.io/mini-datacenter.html
 
 ---
 
