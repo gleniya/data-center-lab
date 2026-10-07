@@ -6,7 +6,7 @@ It has two parts:
 
 | Folder | What it is |
 |---|---|
-| [`demo/`](demo) | A browser-based simulator of a small data center. Open it to see the concepts in action. |
+| [`Demo/`](Demo) | A browser-based simulator of a small data center. Open it to see the concepts in action. |
 | [`real-lab/`](real-lab) | A real Docker setup (website + PostgreSQL) with automated backups, verified restores and health checks. |
 
 **Live demo:**
