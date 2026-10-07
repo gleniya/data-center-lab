@@ -10,7 +10,7 @@ It has two parts:
 | [`real-lab/`](real-lab) | A real Docker setup (website + PostgreSQL) with automated backups, verified restores and health checks. |
 
 **Live demo:**
-https://github.com/gleniya/data-center-lab/Demo
+https://github.com/gleniya/data-center-lab/blob/main/Demo%3Aindex.html.html
 ---
 
 ## 1. Demo (simulator)
